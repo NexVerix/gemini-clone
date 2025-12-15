@@ -52,38 +52,37 @@ Use this project for learning purposes only
 Clone the repository:
 git clone https://github.com/Time7874/gemini-clone.git
 
+
 **Open the project folder:***
 cd gemini-clone
+
 
 Open index.html in your browser
 No server setup required
 
 
 
-**🌍 Live Demo**
+
+**🌍 Live Demo** 
+
 (Optional) Hosted using GitHub Pages
 
 
+
 **⚠️ Disclaimer**
+
 This project is intended for educational and demonstration purposes only.
 Users are responsible for their own API usage, limits, and billing.
 
 
-**📜 License**
-**MIT License***
 
 ---
-## 🟢 Final Verdict (Very Important)
-✔ Showing `"Enter your API key"` is **fine**  
-✔ README clearly explains usage  
-✔ No real key exposed  
-✔ Safe to upload  
-✔ Looks professional  
-
-This is **exactly how good public AI repos do it**.
 
 
-**2️⃣ Update README (Very Important)
-Add a clear note:**
+
+**2️⃣ Update README (Very Important)**
+
+**Add a clear note:**
+
 This project does not include an API key.
 Users must add their own Gemini API key locally.
