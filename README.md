@@ -40,34 +40,39 @@ This repository **does NOT include any API key** for security reasons.
 const API_KEY = "Enter your Api key here"; 
 ```
 Replace it with your own API key.  
-
+<br><br>
 **⚠️ Important:**
 Do NOT upload your real API key to GitHub
 Do NOT enable billing on shared keys
 Use this project for learning purposes only 
 
-
+<br>
 
 **▶️ How to Run Locally**
 Clone the repository:
+
+```bash
 git clone https://github.com/Time7874/gemini-clone.git
+````
 
 
 **Open the project folder:***
+```bash
 cd gemini-clone
+```
 
 
-Open index.html in your browser
+Open ``` index.html ``` in your browser
 No server setup required
 
-
+<br>
 
 
 **🌍 Live Demo** 
 
 (Optional) Hosted using GitHub Pages
 
-
+<br>
 
 **⚠️ Disclaimer**
 
@@ -80,9 +85,7 @@ Users are responsible for their own API usage, limits, and billing.
 
 
 
-**2️⃣ Update README (Very Important)**
-
-**Add a clear note:**
+** Note: Very Important**
 
 This project does not include an API key.
 Users must add their own Gemini API key locally.
