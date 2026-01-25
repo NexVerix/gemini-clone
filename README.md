@@ -48,7 +48,7 @@ Use this project for learning purposes only
 
 <br>
 
-** ▶️ How to Run Locally** 
+**▶️ How to Run Locally** 
 
 Clone the repository:
 
@@ -86,7 +86,7 @@ Users are responsible for their own API usage, limits, and billing.
 
 
 
-** Note: Very Important **
+**Note: Very Important**
 
 This project does not include an API key.
 Users must add their own Gemini API key locally.
