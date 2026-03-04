@@ -40,14 +40,15 @@ This repository **does NOT include any API key** for security reasons.
 const API_KEY = "Enter your Api key here"; 
 ```
 Replace it with your own API key.  
-<br><br>
+
 ---
+
 **⚠️ Important:**
 Do NOT upload your real API key to GitHub
 Do NOT enable billing on shared keys
 Use this project for learning purposes only 
 
-<br>----
+----
 
 **▶️ How to Run Locally** 
 
