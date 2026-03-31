@@ -84,9 +84,3 @@ Users are responsible for their own API usage, limits, and billing.
 
 ## 🚀 Built at NexVerix 
 
-
-
-**Note: Very Important**
-
-This project does not include an API key.
-Users must add their own Gemini API key locally.
