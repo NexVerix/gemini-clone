@@ -51,7 +51,7 @@ Use this project for learning purposes only
 Clone the repository:
 
 ```bash
-git clone https://github.com/Time7874/gemini-clone.git
+git clone https://github.com/nexverix/gemini-clone.git
 ````
 
 
