@@ -80,7 +80,9 @@ Users are responsible for their own API usage, limits, and billing.
 
 
 
----
+--- 
+
+## 🚀 Built at NexVerix 
 
 
 
